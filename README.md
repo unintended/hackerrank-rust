@@ -1,1 +1,1 @@
-# rusty
+# hackerrank rust
