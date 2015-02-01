@@ -3,3 +3,6 @@
 name = "hackerrank-rust"
 version = "0.0.1"
 authors = ["Unintended <unintended@users.noreply.github.com>"]
+
+[dependencies]
+itertools = "0.0.19"
